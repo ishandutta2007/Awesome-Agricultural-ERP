@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[FarmERP](https://www.farmerp.com/)**  
-
-  Comprehensive agricultural ERP covering the full crop lifecycle, farm operations, traceability, and agribusiness management, with AI-assisted insights (FarmGyan).
-
-
-
-- **[AgriERP](https://www.agrierp.com/)**  
-
-  Purpose-built agricultural ERP (often running on Microsoft Dynamics / Business Central or NetSuite) focused on crop farms, orchards, and integrated financials.
-
-
-
-- **[AgVision](https://www.agvision.com/)**  
-
-  Agricultural software suite offering ERP-style capabilities for growers, packers, and agribusiness operations.
-
-
-
-- **[Conservis](https://conservis.ag/)**  
-
-  Farm management and ERP platform focused on data-driven decision making, field operations, inventory, and financial visibility for large-scale growers.
-
-
-
-- **[Produce Pro Software](https://www.producepro.com/)**  
-
-  ERP and operational software tailored for produce growers, packers, shippers, and distributors with strong inventory and traceability features.
-
-
-
-- **[Traction Ag](https://www.tractionag.com/)**  
-
-  Farm management platform popular with row-crop and diversified farms for field records, planning, and operational tracking.
-
-
-
-- **[AgriWebb](https://www.agriwebb.com/)**  
-
-  Livestock and pasture management platform with strong record-keeping, compliance, mapping, and task management features.
-
-
-
-- **[Agworld](https://www.agworld.com/)**  
-
-  Collaborative farm management and agronomy platform used by growers and advisors for planning, work orders, and field records.
-
-
-
-- **[Croptracker](https://www.croptracker.com/)**  
-
-  Farm management software focused on specialty crops, labor tracking, food safety, and compliance documentation.
-
-
-
-- **[Granular (Corteva)](https://granular.ag/)**  
-
-  Digital farming platform combining field mapping, agronomy insights, operational tracking, and financial tools.
+| Platform | Description | Starting Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[FarmERP](https://www.farmerp.com/)** | Comprehensive agricultural ERP covering the full crop lifecycle, farm operations, traceability, and agribusiness management, with AI-assisted insights (FarmGyan). | Starts at ~$199/month (Starter tier; Custom enterprise quotes based on hectares/modules) | No free tier or self-service trial; Free personalized demo available on request |
+| **[AgriERP](https://www.agrierp.com/)** | Purpose-built agricultural ERP (running on Microsoft Dynamics 365 / Business Central or NetSuite) focused on crop farms, orchards, and integrated financials. | Custom enterprise pricing (Varies by deployment & scale; Dynamics 365 licensing base) | 7-day free trial (specific indoor farming modules); Free guided demo on request |
+| **[AgVision](https://www.agvision.com/)** | Agricultural software suite offering ERP-style capabilities for grain elevators, cooperatives, seed processors, and agribusinesses. | Custom quote based on agribusiness modules & scale | No free tier or self-service trial; Free consultation & live demo available |
+| **[Conservis](https://conservis.ag/)** | Farm management and ERP platform focused on data-driven decision making, field operations, inventory, and financial visibility for large-scale growers. | Custom quote (Enterprise per-acre subscription model) | No free tier or trial; Free guided enterprise walkthrough & demo on request |
+| **[Produce Pro Software](https://www.producepro.com/)** | ERP and operational software tailored for produce growers, packers, shippers, and distributors with strong inventory and traceability features. | Starts at ~$5,000 (Base implementation/software deployment quote) | No free tier or trial; Minimum 10+ user requirement; Guided demo on request |
+| **[Traction Ag](https://www.tractionag.com/)** | Farm management and accounting platform popular with row-crop and diversified farms for field records, planning, and operational tracking. | Starts at $95/month (or $950/year billed annually for Basic tier; Plus tier at $1,950/year) | 30-day free trial (full access to farm financial & accounting modules) |
+| **[AgriWebb](https://www.agriwebb.com/)** | Livestock and pasture management platform with strong record-keeping, compliance, mapping, and task management features. | Free forever tier available; Paid tiers start at $125/month (Advanced plan) | Free forever plan: Hobby tier limited to 1 user, basic mapping and reporting. Paid plans offer a 14-day free trial. |
+| **[Agworld](https://www.agworld.com/)** | Collaborative farm management and agronomy platform used by growers and advisors for planning, work orders, and field records. | Starts at ~$1,495/year (Grower plan; Agronomist licenses priced separately) | 7-day free trial (full access to planning and field records, no credit card required) |
+| **[Croptracker](https://www.croptracker.com/)** | Farm management software focused on specialty crops, labor tracking, food safety, and compliance documentation. | Starts at ~$27.50/month per user (per-module basis, subject to minimum user pack) | No free tier or self-service trial (free mobile app requires active subscription); Guided demo on request |
+| **[Granular (Corteva)](https://granular.ag/)** | Digital farming platform combining field mapping, agronomy insights, operational tracking, and financial tools. | Free core tier; Paid tiers (Granular Insights Advanced / Business) start at ~$499/year to $1,200/year | Free forever plan: Granular Insights free tier includes field-level profitability analysis, high-frequency satellite imagery, directed scouting, and machinery data syncing with no acre limits. |
 
 
 
